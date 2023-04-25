@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Sheriff-IT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Sheriff-IT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Create an Azure Account and Deploy a Virtual Machine (VM) on Windows or Mac](https://github.com/Sheriff-IT/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sheriff-IT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sheriff-IT/azure-network-protocols)
 
