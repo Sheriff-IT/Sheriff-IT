@@ -2,14 +2,18 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Sheriff-IT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Sheriff-IT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Sheriff-IT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Create an Azure Account and Deploy a Virtual Machine (VM) on Windows or Mac](https://github.com/Sheriff-IT/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sheriff-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sheriff-IT/azure-network-protocols)
+  - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/Sheriff-IT/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
+  - [Network Protocols and Traffic](https://github.com/Sheriff-IT/Network-Protocols-and-Traffic)
+  - [Virtual Private Networks](https://github.com/Sheriff-IT/Virtual-Private-Network)
+  - [How to Install and Use Active Directory](https://github.com/Sheriff-IT/How-to-Install-and-Use-Active-Directory)
+  - [Understanding DNS](https://github.com/Sheriff-IT/Understanding-DNS)
+  - [Network File Permissions/Shares](https://github.com/Sheriff-IT/Network-File-Permission-Share)
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and How to Install](https://github.com/Sheriff-IT/osTicket-pre-requisite-and-how-to-install)
+  - [osTicket: Post Install Setup](https://github.com/Sheriff-IT/osTicket-post-install-setup)
+  - [osTicket: How to Create Tickets and Resolve Them](https://github.com/Sheriff-IT/osTicket-how-to-create-tickets-and-resolve-them)
 
 <h2>🤳Connect with me:</h2>
 
